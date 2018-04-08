@@ -100,7 +100,7 @@ For updates check the readme.
 
 <addon id="plugin.video.TheOne"
        name="[COLOR blue]The[/COLOR]One"
-       version="0.0.8b"
+       version="0.0.9"
        provider-name="TheOne">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
